@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="Contact01">Contacts</string>
+    <string name="Add01">ADD</string>
+    <string name="Delete01">DELETE</string>
+    <string name="Contact_Details02">Contact Details</string>
+    <string name="Name">Name:</string>
+    <string name="Phone_Number">Phone Number:</string>
+    <string name="Relationship">Relationship:</string>
+    <string name="Add_Person02">ADD PERSON</string>
+    <string name="Contact_Profile03">Contact Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
